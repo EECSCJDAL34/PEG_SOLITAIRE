@@ -1,0 +1,746 @@
+time	C_DATE	default_create	F860_6954	C1\c_860.c
+time	C_DATE	make_utc	F860_6955	C1\c_860.c
+time	C_DATE	is_utc	F860_6956	C1\c_860.c
+time	C_DATE	update	F860_6957	C1\c_860.c
+time	C_DATE	year_now	F860_6958	C1\c_860.c
+time	C_DATE	month_now	F860_6959	C1\c_860.c
+time	C_DATE	day_now	F860_6960	C1\c_860.c
+time	C_DATE	hour_now	F860_6961	C1\c_860.c
+time	C_DATE	minute_now	F860_6962	C1\c_860.c
+time	C_DATE	second_now	F860_6963	C1\c_860.c
+time	C_DATE	millisecond_now	F860_6964	C1\c_860.c
+time	C_DATE	ftime	F860_6965	C1\c_860.c
+time	C_DATE	timeb_structure_size	F860_6966	C1\c_860.c
+time	C_DATE	time_t_structure_size	F860_6967	C1\c_860.c
+time	C_DATE	tm_structure_size	F860_6968	C1\c_860.c
+time	C_DATE	get_millitm	F860_6969	C1\c_860.c
+time	C_DATE	get_time	F860_6970	C1\c_860.c
+time	C_DATE	internal_item	F860_6971	C1\c_860.c
+time	C_DATE	localtime	F860_6972	C1\c_860.c
+time	C_DATE	gmtime	F860_6973	C1\c_860.c
+time	C_DATE	get_tm_year	F860_6974	C1\c_860.c
+time	C_DATE	get_tm_mon	F860_6975	C1\c_860.c
+time	C_DATE	get_tm_mday	F860_6976	C1\c_860.c
+time	C_DATE	get_tm_hour	F860_6977	C1\c_860.c
+time	C_DATE	get_tm_min	F860_6978	C1\c_860.c
+time	C_DATE	get_tm_sec	F860_6979	C1\c_860.c
+board	BOARD_TEMPLATES	make	F861_6980	C1\bo861.c
+board	BOARD_TEMPLATES	default_board	F861_6981	C1\bo861.c
+board	BOARD_TEMPLATES	easy_board	F861_6982	C1\bo861.c
+board	BOARD_TEMPLATES	cross_board	F861_6983	C1\bo861.c
+board	BOARD_TEMPLATES	plus_board	F861_6984	C1\bo861.c
+board	BOARD_TEMPLATES	pyramid_board	F861_6985	C1\bo861.c
+board	BOARD_TEMPLATES	arrow_board	F861_6986	C1\bo861.c
+board	BOARD_TEMPLATES	diamond_board	F861_6987	C1\bo861.c
+board	BOARD_TEMPLATES	skull_board	F861_6988	C1\bo861.c
+board	BOARD_TEMPLATES	default_board_out	F861_6989	C1\bo861.c
+board	BOARD_TEMPLATES	easy_board_out	F861_6990	C1\bo861.c
+board	BOARD_TEMPLATES	cross_board_out	F861_6991	C1\bo861.c
+board	BOARD_TEMPLATES	plus_board_out	F861_6992	C1\bo861.c
+board	BOARD_TEMPLATES	pyramid_board_out	F861_6993	C1\bo861.c
+board	BOARD_TEMPLATES	arrow_board_out	F861_6994	C1\bo861.c
+board	BOARD_TEMPLATES	diamond_board_out	F861_6995	C1\bo861.c
+board	BOARD_TEMPLATES	skull_board_out	F861_6996	C1\bo861.c
+slot	SLOT_STATUS_ACCESS	unavailable_slot	F862_6997	C1\sl862.c
+slot	SLOT_STATUS_ACCESS	occupied_slot	F862_6998	C1\sl862.c
+slot	SLOT_STATUS_ACCESS	unoccupied_slot	F862_6999	C1\sl862.c
+slot	reference SLOT_STATUS_ACCESS	unavailable_slot	F863_6997	C1\sl863.c
+slot	reference SLOT_STATUS_ACCESS	occupied_slot	F863_6998	C1\sl863.c
+slot	reference SLOT_STATUS_ACCESS	unoccupied_slot	F863_6999	C1\sl863.c
+game	GAME	make_from_board	F864_7000	C1\ga864.c
+game	GAME	make_easy	F864_7001	C1\ga864.c
+game	GAME	make_cross	F864_7002	C1\ga864.c
+game	GAME	make_plus	F864_7003	C1\ga864.c
+game	GAME	make_pyramid	F864_7004	C1\ga864.c
+game	GAME	make_arrow	F864_7005	C1\ga864.c
+game	GAME	make_diamond	F864_7006	C1\ga864.c
+game	GAME	make_skull	F864_7007	C1\ga864.c
+game	GAME	move_left	F864_7008	C1\ga864.c
+game	GAME	move_right	F864_7009	C1\ga864.c
+game	GAME	move_up	F864_7010	C1\ga864.c
+game	GAME	move_down	F864_7011	C1\ga864.c
+game	GAME	is_over	F864_7012	C1\ga864.c
+game	GAME	is_won	F864_7013	C1\ga864.c
+game	GAME	out	F864_7014	C1\ga864.c
+game	GAME	boolean_to_yes_no	F864_7015	C1\ga864.c
+game	GAME	bta	F864_7016	C1\ga864.c
+game	GAME	board	F864_7017	C1\ga864.c
+board	BOARD_TEMPLATES_ACCESS	templates	F865_7018	C1\bo865.c
+board	reference BOARD_TEMPLATES_ACCESS	templates	F866_7018	C1\bo866.c
+board	BOARD	make_default	F867_7019	C1\bo867.c
+board	BOARD	make_easy	F867_7020	C1\bo867.c
+board	BOARD	make_cross	F867_7021	C1\bo867.c
+board	BOARD	make_plus	F867_7022	C1\bo867.c
+board	BOARD	make_pyramid	F867_7023	C1\bo867.c
+board	BOARD	make_arrow	F867_7024	C1\bo867.c
+board	BOARD	make_diamond	F867_7025	C1\bo867.c
+board	BOARD	make_skull	F867_7026	C1\bo867.c
+board	BOARD	set_status	F867_7027	C1\bo867.c
+board	BOARD	set_statuses	F867_7028	C1\bo867.c
+board	BOARD	matches_slots_except	F867_7029	C1\bo867.c
+board	BOARD	unavailable_slot	F867_7030	C1\bo867.c
+board	BOARD	occupied_slot	F867_7031	C1\bo867.c
+board	BOARD	unoccupied_slot	F867_7032	C1\bo867.c
+board	BOARD	number_of_rows	F867_7033	C1\bo867.c
+board	BOARD	number_of_columns	F867_7034	C1\bo867.c
+board	BOARD	is_valid_row	F867_7035	C1\bo867.c
+board	BOARD	is_valid_column	F867_7036	C1\bo867.c
+board	BOARD	status_of	F867_7037	C1\bo867.c
+board	BOARD	number_of_occupied_slots	F867_7038	C1\bo867.c
+board	BOARD	is_equal	F867_7039	C1\bo867.c
+board	BOARD	out	F867_7040	C1\bo867.c
+board	BOARD	ssa	F867_7041	C1\bo867.c
+board	BOARD	bta	F867_7042	C1\bo867.c
+board	BOARD	imp	F867_7043	C1\bo867.c
+time	DATE_TIME_TOOLS	name	F869_7052	C1\da869.c
+time	DATE_TIME_TOOLS	days_text	F869_7053	C1\da869.c
+time	DATE_TIME_TOOLS	months_text	F869_7054	C1\da869.c
+time	DATE_TIME_TOOLS	long_days_text	F869_7055	C1\da869.c
+time	DATE_TIME_TOOLS	long_months_text	F869_7056	C1\da869.c
+time	DATE_TIME_TOOLS	date_default_format_string	F869_7057	C1\da869.c
+time	DATE_TIME_TOOLS	time_default_format_string	F869_7058	C1\da869.c
+time	DATE_TIME_TOOLS	default_format_string	F869_7059	C1\da869.c
+espec	ES_HTML_GEN	make_gen	F871_7065	C1\es871.c
+espec	ES_HTML_GEN	show_error	F871_7066	C1\es871.c
+espec	ES_HTML_GEN	write_summary	F871_7067	C1\es871.c
+espec	ES_HTML_GEN	write_summary_big	F871_7068	C1\es871.c
+espec	ES_HTML_GEN	write_summary_start	F871_7069	C1\es871.c
+espec	ES_HTML_GEN	write_summary_end	F871_7070	C1\es871.c
+espec	ES_HTML_GEN	write_summary_start_big	F871_7071	C1\es871.c
+espec	ES_HTML_GEN	write_summary_end_big	F871_7072	C1\es871.c
+espec	ES_HTML_GEN	write_statistics	F871_7073	C1\es871.c
+espec	ES_HTML_GEN	write_statistics_big	F871_7074	C1\es871.c
+espec	ES_HTML_GEN	write_passed_case	F871_7075	C1\es871.c
+espec	ES_HTML_GEN	write_failed_case	F871_7076	C1\es871.c
+espec	ES_HTML_GEN	wrap_length	F871_7077	C1\es871.c
+espec	ES_HTML_GEN	wrap_line	F871_7078	C1\es871.c
+espec	ES_HTML_GEN	wrap_html_comments	F871_7079	C1\es871.c
+espec	ES_HTML_GEN	write_one_case_details	F871_7080	C1\es871.c
+espec	ES_HTML_GEN	output_file	F871_7083	C1\es871.c
+espec	ES_HTML_GEN	test_name	F871_7084	C1\es871.c
+espec	ES_HTML_GEN	output_file_name	F871_7085	C1\es871.c
+espec	ES_HTML_GEN	output_file1	F871_7086	C1\es871.c
+espec	ES_HTML_GEN	number_of_boolean	F871_7087	C1\es871.c
+espec	ES_HTML_GEN	number_passed_boolean	F871_7088	C1\es871.c
+espec	ES_HTML_GEN	number_of_violation	F871_7089	C1\es871.c
+espec	ES_HTML_GEN	number_passed_violation	F871_7090	C1\es871.c
+espec	ES_HTML_GEN	number_of_tests	F871_7091	C1\es871.c
+espec	ES_HTML_GEN	number_passed_tests	F871_7092	C1\es871.c
+espec	ES_HTML_GEN_SUITE	make	F872_7093	C1\es872.c
+espec	ES_HTML_GEN_SUITE	write_html_report	F872_7094	C1\es872.c
+espec	ES_HTML_GEN_SUITE	get_statistics	F872_7095	C1\es872.c
+espec	ES_HTML_GEN_SUITE	write_summary_details	F872_7096	C1\es872.c
+espec	ES_HTML_GEN_SUITE	test_classes	F872_7097	C1\es872.c
+time	CODE_VALIDITY_CHECKER	is_code	F873_7098	C1\co873.c
+time	CODE_VALIDITY_CHECKER	is_day	F873_7099	C1\co873.c
+time	CODE_VALIDITY_CHECKER	is_day0	F873_7100	C1\co873.c
+time	CODE_VALIDITY_CHECKER	is_day_text	F873_7101	C1\co873.c
+time	CODE_VALIDITY_CHECKER	is_year4	F873_7102	C1\co873.c
+time	CODE_VALIDITY_CHECKER	is_year2	F873_7103	C1\co873.c
+time	CODE_VALIDITY_CHECKER	is_month	F873_7104	C1\co873.c
+time	CODE_VALIDITY_CHECKER	is_month0	F873_7105	C1\co873.c
+time	CODE_VALIDITY_CHECKER	is_month_text	F873_7106	C1\co873.c
+time	CODE_VALIDITY_CHECKER	is_hour	F873_7107	C1\co873.c
+time	CODE_VALIDITY_CHECKER	is_hour0	F873_7108	C1\co873.c
+time	CODE_VALIDITY_CHECKER	is_hour12	F873_7109	C1\co873.c
+time	CODE_VALIDITY_CHECKER	is_hour12_0	F873_7110	C1\co873.c
+time	CODE_VALIDITY_CHECKER	is_minute	F873_7111	C1\co873.c
+time	CODE_VALIDITY_CHECKER	is_minute0	F873_7112	C1\co873.c
+time	CODE_VALIDITY_CHECKER	is_second	F873_7113	C1\co873.c
+time	CODE_VALIDITY_CHECKER	is_second0	F873_7114	C1\co873.c
+time	CODE_VALIDITY_CHECKER	is_fractional_second	F873_7115	C1\co873.c
+time	CODE_VALIDITY_CHECKER	is_colon	F873_7116	C1\co873.c
+time	CODE_VALIDITY_CHECKER	is_slash	F873_7117	C1\co873.c
+time	CODE_VALIDITY_CHECKER	is_minus	F873_7118	C1\co873.c
+time	CODE_VALIDITY_CHECKER	is_comma	F873_7119	C1\co873.c
+time	CODE_VALIDITY_CHECKER	is_space	F873_7120	C1\co873.c
+time	CODE_VALIDITY_CHECKER	is_dot	F873_7121	C1\co873.c
+time	CODE_VALIDITY_CHECKER	is_separator	F873_7122	C1\co873.c
+time	CODE_VALIDITY_CHECKER	is_meridiem	F873_7123	C1\co873.c
+time	TIME_UTILITY	mod	F874_7124	C1\ti874.c
+time	TIME_UTILITY	div	F874_7125	C1\ti874.c
+time	TIME_UTILITY	date_time_tools	F874_7126	C1\ti874.c
+time	TIME_UTILITY	default_format_string	F874_7127	C1\ti874.c
+time	TIME_CONSTANTS	seconds_in_minute	F875_7128	C1\ti875.c
+time	TIME_CONSTANTS	seconds_in_hour	F875_7129	C1\ti875.c
+time	TIME_CONSTANTS	seconds_in_day	F875_7130	C1\ti875.c
+time	TIME_CONSTANTS	minutes_in_hour	F875_7131	C1\ti875.c
+time	TIME_CONSTANTS	hours_in_day	F875_7132	C1\ti875.c
+time	TIME_CONSTANTS	time_default_format_string	F875_7133	C1\ti875.c
+time	TIME_VALUE	hour	F877_7143	C1\ti877.c
+time	TIME_VALUE	minute	F877_7144	C1\ti877.c
+time	TIME_VALUE	second	F877_7145	C1\ti877.c
+time	TIME_VALUE	fractional_second	F877_7146	C1\ti877.c
+time	TIME_VALUE	compact_time	F877_7147	C1\ti877.c
+time	TIME_VALUE	fine_second	F877_7148	C1\ti877.c
+time	TIME_VALUE	milli_second	F877_7149	C1\ti877.c
+time	TIME_VALUE	micro_second	F877_7150	C1\ti877.c
+time	TIME_VALUE	nano_second	F877_7151	C1\ti877.c
+time	TIME_VALUE	set_hour	F877_7152	C1\ti877.c
+time	TIME_VALUE	set_minute	F877_7153	C1\ti877.c
+time	TIME_VALUE	set_second	F877_7154	C1\ti877.c
+time	TIME_VALUE	set_fine_second	F877_7155	C1\ti877.c
+time	TIME_VALUE	set_fractionals	F877_7156	C1\ti877.c
+time	TIME_VALUE	hour_mask	F877_7157	C1\ti877.c
+time	TIME_VALUE	minute_mask	F877_7158	C1\ti877.c
+time	TIME_VALUE	second_mask	F877_7159	C1\ti877.c
+time	TIME_VALUE	hour_shift	F877_7160	C1\ti877.c
+time	TIME_VALUE	minute_shift	F877_7161	C1\ti877.c
+time	DATE_CONSTANTS	days_in_week	F878_7162	C1\da878.c
+time	DATE_CONSTANTS	max_weeks_in_year	F878_7163	C1\da878.c
+time	DATE_CONSTANTS	months_in_year	F878_7164	C1\da878.c
+time	DATE_CONSTANTS	days_in_leap_year	F878_7165	C1\da878.c
+time	DATE_CONSTANTS	days_in_non_leap_year	F878_7166	C1\da878.c
+time	DATE_CONSTANTS	days_in_i_th_month	F878_7167	C1\da878.c
+time	DATE_CONSTANTS	date_default_format_string	F878_7168	C1\da878.c
+time	DATE_CONSTANTS	days_text	F878_7169	C1\da878.c
+time	DATE_CONSTANTS	months_text	F878_7170	C1\da878.c
+time	DATE_CONSTANTS	long_days_text	F878_7171	C1\da878.c
+time	DATE_CONSTANTS	long_months_text	F878_7172	C1\da878.c
+time	DATE_CONSTANTS	i_th_leap_year	F878_7173	C1\da878.c
+time	DATE_CONSTANTS	is_leap_year	F878_7174	C1\da878.c
+time	DATE_CONSTANTS	days_in_months	F878_7175	C1\da878.c
+time	DATE_TIME_MEASUREMENT	year	F879_7178	C1\da879.c
+time	DATE_TIME_MEASUREMENT	month	F879_7179	C1\da879.c
+time	DATE_TIME_MEASUREMENT	day	F879_7180	C1\da879.c
+time	DATE_TIME_MEASUREMENT	hour	F879_7181	C1\da879.c
+time	DATE_TIME_MEASUREMENT	minute	F879_7182	C1\da879.c
+time	DATE_TIME_MEASUREMENT	second	F879_7183	C1\da879.c
+time	DATE_TIME_MEASUREMENT	fine_second	F879_7184	C1\da879.c
+time	DATE_TIME_VALUE	date	F880_7185	C1\da880.c
+time	DATE_TIME_VALUE	time	F880_7186	C1\da880.c
+time	DATE_TIME_VALUE	fractional_second	F880_7187	C1\da880.c
+time	DATE_MEASUREMENT	days_in_month	F881_7195	C1\da881.c
+slot	SLOT_STATUS	is_equal	F882_7196	C1\sl882.c
+slot	UNAVAILABLE_SLOT	make	F883_7197	C1\un883.c
+slot	UNAVAILABLE_SLOT	out	F883_7198	C1\un883.c
+slot	UNOCCUPIED_SLOT	make	F885_7199	C1\un885.c
+slot	UNOCCUPIED_SLOT	out	F885_7200	C1\un885.c
+slot	OCCUPIED_SLOT	make	F886_7201	C1\oc886.c
+slot	OCCUPIED_SLOT	out	F886_7202	C1\oc886.c
+game	PLAYER	make	F887_7203	C1\pl887.c
+game	PLAYER	game	F887_7204	C1\pl887.c
+game	PLAYER	templates	F887_7205	C1\pl887.c
+game	BAD_PLAYER	loses_easy_board	F888_7206	C1\ba888.c
+game	BAD_PLAYER	loses_pyramid_game	F888_7207	C1\ba888.c
+game	BAD_PLAYER	loses_arrow_game	F888_7208	C1\ba888.c
+game	BAD_PLAYER	loses_diamond_game	F888_7209	C1\ba888.c
+game	BAD_PLAYER	loses_skull_game	F888_7210	C1\ba888.c
+game	GOOD_PLAYER	wins_easy_board	F889_7211	C1\go889.c
+game	GOOD_PLAYER	wins_cross_board	F889_7212	C1\go889.c
+game	GOOD_PLAYER	wins_plus_board	F889_7213	C1\go889.c
+espec	ES_TESTABLE	run_espec	F890_7214	C1\es890.c
+espec	ES_TESTABLE	show_errors	F890_7215	C1\es890.c
+espec	ES_TESTABLE	show_browser	F890_7216	C1\es890.c
+espec	ES_TESTABLE	set_html_name	F890_7217	C1\es890.c
+espec	ES_TESTABLE	set_error_report	F890_7218	C1\es890.c
+espec	ES_TESTABLE	curr_os_dir_separator	F890_7220	C1\es890.c
+espec	ES_TESTABLE	print_to_screen	F890_7221	C1\es890.c
+espec	ES_TESTABLE	safe_put_string	F890_7222	C1\es890.c
+espec	ES_TESTABLE	check_browser	F890_7223	C1\es890.c
+espec	ES_TESTABLE	get_html_name	F890_7224	C1\es890.c
+espec	ES_TESTABLE	print_console_report	F890_7227	C1\es890.c
+espec	ES_TESTABLE	default_html_name	F890_7228	C1\es890.c
+espec	ES_TESTABLE	number_of_tests	F890_7229	C1\es890.c
+espec	ES_TESTABLE	number_passed_tests	F890_7230	C1\es890.c
+espec	ES_TESTABLE	show_err	F890_7231	C1\es890.c
+espec	ES_TESTABLE	browser	F890_7232	C1\es890.c
+espec	ES_SUITE	add_test	F891_7233	C1\es891.c
+espec	ES_SUITE	add_suite	F891_7234	C1\es891.c
+espec	ES_SUITE	to_html	F891_7235	C1\es891.c
+espec	ES_SUITE	run_es_test	F891_7236	C1\es891.c
+espec	ES_SUITE	passed_cases	F891_7237	C1\es891.c
+espec	ES_SUITE	failed_cases	F891_7238	C1\es891.c
+espec	ES_SUITE	make_test	F891_7239	C1\es891.c
+espec	ES_SUITE	count	F891_7240	C1\es891.c
+espec	ES_SUITE	pass_values	F891_7241	C1\es891.c
+espec	ES_SUITE	name	F891_7242	C1\es891.c
+espec	ES_SUITE	classes	F891_7243	C1\es891.c
+root	APPLICATION	make	F892_7244	C2\ap892.c
+espec	ES_TEST	add_boolean_case	F893_7245	C2\es893.c
+espec	ES_TEST	add_violation_case_with_tag	F893_7246	C2\es893.c
+espec	ES_TEST	add_violation_case	F893_7247	C2\es893.c
+espec	ES_TEST	setup	F893_7248	C2\es893.c
+espec	ES_TEST	teardown	F893_7249	C2\es893.c
+espec	ES_TEST	comment	F893_7250	C2\es893.c
+espec	ES_TEST	html_start_code	F893_7251	C2\es893.c
+espec	ES_TEST	html_end_code	F893_7252	C2\es893.c
+espec	ES_TEST	space	F893_7253	C2\es893.c
+espec	ES_TEST	sub_comment	F893_7254	C2\es893.c
+espec	ES_TEST	assert_equal	F893_7255	C2\es893.c
+espec	ES_TEST	assert_not_equal	F893_7256	C2\es893.c
+espec	ES_TEST	assert	F893_7257	C2\es893.c
+espec	ES_TEST	failed_cases	F893_7258	C2\es893.c
+espec	ES_TEST	create_case_name	F893_7259	C2\es893.c
+espec	ES_TEST	case_name	F893_7260	C2\es893.c
+espec	ES_TEST	case_name	F893_7260	C2\es893.c
+espec	ES_TEST	passed_cases	F893_7261	C2\es893.c
+espec	ES_TEST	count	F893_7262	C2\es893.c
+espec	ES_TEST	initialize	F893_7263	C2\es893.c
+espec	ES_TEST	to_html	F893_7264	C2\es893.c
+espec	ES_TEST	get_test_name	F893_7265	C2\es893.c
+espec	ES_TEST	run_es_test	F893_7266	C2\es893.c
+espec	ES_TEST	to_message_string	F893_7267	C2\es893.c
+espec	ES_TEST	cases	F893_7268	C2\es893.c
+espec	ES_TEST	name	F893_7269	C2\es893.c
+espec	ES_TEST	descriptions	F893_7270	C2\es893.c
+espec	ES_TEST	class_variable_comment_string	F893_7271	C2\es893.c
+espec	ES_TEST	class_variable_comment_string	F893_7271	C2\es893.c
+tests	TEST_PEG_SOLITAIRE	make	F894_7272	C2\te894.c
+tests	TEST_PEG_SOLITAIRE	bta	F894_7273	C2\te894.c
+tests	TEST_PEG_SOLITAIRE	ssa	F894_7274	C2\te894.c
+tests	TEST_PEG_SOLITAIRE	test_easy_game_creation	F894_7275	C2\te894.c
+tests	TEST_PEG_SOLITAIRE	test_set_status_extreme_cases	F894_7276	C2\te894.c
+tests	TEST_PEG_SOLITAIRE	test_set_status_illegal_cases	F894_7277	C2\te894.c
+tests	TEST_PEG_SOLITAIRE	test_set_statuses_extreme_cases	F894_7278	C2\te894.c
+tests	TEST_PEG_SOLITAIRE	test_set_statuses_illegal_cases	F894_7279	C2\te894.c
+tests	TEST_PEG_SOLITAIRE	test_board_auxiliary_queries	F894_7280	C2\te894.c
+tests	TEST_PEG_SOLITAIRE	test_matches_slots_except	F894_7281	C2\te894.c
+tests	TEST_PEG_SOLITAIRE	test_singleton	F894_7282	C2\te894.c
+tests	TEST_BAD_PLAYER	make	F895_7283	C2\te895.c
+tests	TEST_BAD_PLAYER	test_bad_player_loses_easy_board	F895_7284	C2\te895.c
+tests	TEST_BAD_PLAYER	test_bad_player_loses_pyramid_board	F895_7285	C2\te895.c
+tests	TEST_BAD_PLAYER	test_bad_player_loses_arrow_board	F895_7286	C2\te895.c
+tests	TEST_BAD_PLAYER	test_bad_player_loses_diamond_board	F895_7287	C2\te895.c
+tests	TEST_BAD_PLAYER	test_bad_player_loses_skull_board	F895_7288	C2\te895.c
+tests	TEST_GOOD_PLAYER	make	F896_7289	C2\te896.c
+tests	TEST_GOOD_PLAYER	test_good_player_wins_easy_board	F896_7290	C2\te896.c
+tests	TEST_GOOD_PLAYER	test_good_player_wins_cross_board	F896_7291	C2\te896.c
+tests	TEST_GOOD_PLAYER	test_good_player_wins_plus_board	F896_7292	C2\te896.c
+espec	ES_TEST_CASE	set_bookmark_name	F897_7296	C2\es897.c
+espec	ES_TEST_CASE	set_case_name	F897_7297	C2\es897.c
+espec	ES_TEST_CASE	passed	F897_7298	C2\es897.c
+espec	ES_TEST_CASE	contract_violated	F897_7299	C2\es897.c
+espec	ES_TEST_CASE	case_name	F897_7300	C2\es897.c
+espec	ES_TEST_CASE	bookmark_name	F897_7301	C2\es897.c
+espec	ES_TEST_CASE	violation_tag	F897_7302	C2\es897.c
+espec	ES_TEST_CASE	violation_type	F897_7303	C2\es897.c
+espec	ES_TEST_CASE	case	F897_7304	C2\es897.c
+espec	ES_BOOLEAN_TEST_CASE	make	F898_7305	C2\es898.c
+espec	ES_BOOLEAN_TEST_CASE	run	F898_7306	C2\es898.c
+espec	ES_BOOLEAN_TEST_CASE	is_violation_case	F898_7307	C2\es898.c
+espec	ES_BOOLEAN_TEST_CASE	case	F898_7308	C2\es898.c
+espec	ES_VIOLATION_CASE	make	F899_7309	C2\es899.c
+espec	ES_VIOLATION_CASE	make_with_tag	F899_7310	C2\es899.c
+espec	ES_VIOLATION_CASE	run	F899_7311	C2\es899.c
+espec	ES_VIOLATION_CASE	is_violation_case	F899_7312	C2\es899.c
+espec	ES_VIOLATION_CASE	expected_tag_name	F899_7313	C2\es899.c
+time	INTERVAL [G#1]	make	F917_7314	C2\in917.c
+time	INTERVAL [G#1]	start_bound	F917_7315	C2\in917.c
+time	INTERVAL [G#1]	end_bound	F917_7316	C2\in917.c
+time	INTERVAL [G#1]	duration	F917_7317	C2\in917.c
+time	INTERVAL [G#1]	is_equal	F917_7318	C2\in917.c
+time	INTERVAL [G#1]	intersects	F917_7319	C2\in917.c
+time	INTERVAL [G#1]	is_less	F917_7320	C2\in917.c
+time	INTERVAL [G#1]	is_less_equal	F917_7321	C2\in917.c
+time	INTERVAL [G#1]	is_greater	F917_7322	C2\in917.c
+time	INTERVAL [G#1]	is_greater_equal	F917_7323	C2\in917.c
+time	INTERVAL [G#1]	is_strict_included_by	F917_7324	C2\in917.c
+time	INTERVAL [G#1]	strict_includes	F917_7325	C2\in917.c
+time	INTERVAL [G#1]	is_included_by	F917_7326	C2\in917.c
+time	INTERVAL [G#1]	includes	F917_7327	C2\in917.c
+time	INTERVAL [G#1]	overlaps	F917_7328	C2\in917.c
+time	INTERVAL [G#1]	is_overlapped_by	F917_7329	C2\in917.c
+time	INTERVAL [G#1]	meets	F917_7330	C2\in917.c
+time	INTERVAL [G#1]	is_met_by	F917_7331	C2\in917.c
+time	INTERVAL [G#1]	empty	F917_7332	C2\in917.c
+time	INTERVAL [G#1]	has	F917_7333	C2\in917.c
+time	INTERVAL [G#1]	strict_before	F917_7334	C2\in917.c
+time	INTERVAL [G#1]	strict_after	F917_7335	C2\in917.c
+time	INTERVAL [G#1]	before	F917_7336	C2\in917.c
+time	INTERVAL [G#1]	after	F917_7337	C2\in917.c
+time	INTERVAL [G#1]	set_start_bound	F917_7338	C2\in917.c
+time	INTERVAL [G#1]	set_end_bound	F917_7339	C2\in917.c
+time	INTERVAL [G#1]	union	F917_7340	C2\in917.c
+time	INTERVAL [G#1]	intersection	F917_7341	C2\in917.c
+time	INTERVAL [G#1]	gather	F917_7342	C2\in917.c
+time	INTERVAL [G#1]	out	F917_7343	C2\in917.c
+time	DURATION	is_negative	F900_7353	C2\du900.c
+time	DURATION	is_zero	F900_7354	C2\du900.c
+time	DURATION	identity	F900_7355	C2\du900.c
+time	DURATION	minus	F900_7356	C2\du900.c
+time	DATE_TIME_DURATION	make	F901_7357	C2\da901.c
+time	DATE_TIME_DURATION	make_definite	F901_7358	C2\da901.c
+time	DATE_TIME_DURATION	make_fine	F901_7359	C2\da901.c
+time	DATE_TIME_DURATION	make_by_date_time	F901_7360	C2\da901.c
+time	DATE_TIME_DURATION	make_by_date	F901_7361	C2\da901.c
+time	DATE_TIME_DURATION	date	F901_7362	C2\da901.c
+time	DATE_TIME_DURATION	time	F901_7363	C2\da901.c
+time	DATE_TIME_DURATION	origin_date_time	F901_7364	C2\da901.c
+time	DATE_TIME_DURATION	zero	F901_7365	C2\da901.c
+time	DATE_TIME_DURATION	seconds_count	F901_7366	C2\da901.c
+time	DATE_TIME_DURATION	fine_seconds_count	F901_7367	C2\da901.c
+time	DATE_TIME_DURATION	is_less	F901_7368	C2\da901.c
+time	DATE_TIME_DURATION	is_equal	F901_7369	C2\da901.c
+time	DATE_TIME_DURATION	definite	F901_7370	C2\da901.c
+time	DATE_TIME_DURATION	canonical	F901_7371	C2\da901.c
+time	DATE_TIME_DURATION	is_positive	F901_7372	C2\da901.c
+time	DATE_TIME_DURATION	has_origin_date_time	F901_7373	C2\da901.c
+time	DATE_TIME_DURATION	set_origin_date_time	F901_7374	C2\da901.c
+time	DATE_TIME_DURATION	set_date	F901_7375	C2\da901.c
+time	DATE_TIME_DURATION	set_time	F901_7376	C2\da901.c
+time	DATE_TIME_DURATION	plus	F901_7377	C2\da901.c
+time	DATE_TIME_DURATION	opposite	F901_7378	C2\da901.c
+time	DATE_TIME_DURATION	day_add	F901_7379	C2\da901.c
+time	DATE_TIME_DURATION	to_canonical	F901_7380	C2\da901.c
+time	DATE_TIME_DURATION	time_to_canonical	F901_7381	C2\da901.c
+time	TIME_DURATION	make	F902_7382	C2\ti902.c
+time	TIME_DURATION	make_fine	F902_7383	C2\ti902.c
+time	TIME_DURATION	make_by_seconds	F902_7384	C2\ti902.c
+time	TIME_DURATION	make_by_fine_seconds	F902_7385	C2\ti902.c
+time	TIME_DURATION	fine_seconds_count	F902_7386	C2\ti902.c
+time	TIME_DURATION	seconds_count	F902_7387	C2\ti902.c
+time	TIME_DURATION	zero	F902_7388	C2\ti902.c
+time	TIME_DURATION	hour	F902_7389	C2\ti902.c
+time	TIME_DURATION	minute	F902_7390	C2\ti902.c
+time	TIME_DURATION	second	F902_7391	C2\ti902.c
+time	TIME_DURATION	fine_second	F902_7392	C2\ti902.c
+time	TIME_DURATION	fractional_second	F902_7393	C2\ti902.c
+time	TIME_DURATION	is_less	F902_7394	C2\ti902.c
+time	TIME_DURATION	is_equal	F902_7395	C2\ti902.c
+time	TIME_DURATION	canonical	F902_7396	C2\ti902.c
+time	TIME_DURATION	is_positive	F902_7397	C2\ti902.c
+time	TIME_DURATION	set_second	F902_7398	C2\ti902.c
+time	TIME_DURATION	set_fine_second	F902_7399	C2\ti902.c
+time	TIME_DURATION	set_fractionals	F902_7400	C2\ti902.c
+time	TIME_DURATION	set_minute	F902_7401	C2\ti902.c
+time	TIME_DURATION	set_hour	F902_7402	C2\ti902.c
+time	TIME_DURATION	second_add	F902_7403	C2\ti902.c
+time	TIME_DURATION	fine_second_add	F902_7404	C2\ti902.c
+time	TIME_DURATION	minute_add	F902_7405	C2\ti902.c
+time	TIME_DURATION	hour_add	F902_7406	C2\ti902.c
+time	TIME_DURATION	plus	F902_7407	C2\ti902.c
+time	TIME_DURATION	opposite	F902_7408	C2\ti902.c
+time	TIME_DURATION	to_canonical	F902_7409	C2\ti902.c
+time	TIME_DURATION	to_days	F902_7410	C2\ti902.c
+time	TIME_DURATION	time_modulo_day	F902_7411	C2\ti902.c
+time	TIME_DURATION	tolerance	F902_7412	C2\ti902.c
+time	DATE_DURATION	make	F903_7413	C2\da903.c
+time	DATE_DURATION	make_by_days	F903_7414	C2\da903.c
+time	DATE_DURATION	zero	F903_7415	C2\da903.c
+time	DATE_DURATION	day	F903_7416	C2\da903.c
+time	DATE_DURATION	month	F903_7417	C2\da903.c
+time	DATE_DURATION	year	F903_7418	C2\da903.c
+time	DATE_DURATION	origin_date	F903_7419	C2\da903.c
+time	DATE_DURATION	days_count	F903_7420	C2\da903.c
+time	DATE_DURATION	is_less	F903_7421	C2\da903.c
+time	DATE_DURATION	is_equal	F903_7422	C2\da903.c
+time	DATE_DURATION	definite	F903_7423	C2\da903.c
+time	DATE_DURATION	canonical	F903_7424	C2\da903.c
+time	DATE_DURATION	is_positive	F903_7425	C2\da903.c
+time	DATE_DURATION	has_origin_date	F903_7426	C2\da903.c
+time	DATE_DURATION	set_origin_date	F903_7427	C2\da903.c
+time	DATE_DURATION	set_day	F903_7428	C2\da903.c
+time	DATE_DURATION	set_month	F903_7429	C2\da903.c
+time	DATE_DURATION	set_year	F903_7430	C2\da903.c
+time	DATE_DURATION	set_date	F903_7431	C2\da903.c
+time	DATE_DURATION	day_add	F903_7432	C2\da903.c
+time	DATE_DURATION	month_add	F903_7433	C2\da903.c
+time	DATE_DURATION	year_add	F903_7434	C2\da903.c
+time	DATE_DURATION	plus	F903_7435	C2\da903.c
+time	DATE_DURATION	opposite	F903_7436	C2\da903.c
+time	DATE_DURATION	to_canonical	F903_7437	C2\da903.c
+time	DATE_DURATION	to_definite	F903_7438	C2\da903.c
+time	DATE_DURATION	to_date_time	F903_7439	C2\da903.c
+time	ABSOLUTE	is_less	F904_7442	C2\ab904.c
+time	ABSOLUTE	minus	F904_7443	C2\ab904.c
+elks	ARRAY2 [G#1]	make	F919_3551	C2\ar919.c
+elks	ARRAY2 [G#1]	make_filled	F919_3552	C2\ar919.c
+elks	ARRAY2 [G#1]	initialize	F919_3553	C2\ar919.c
+elks	ARRAY2 [G#1]	item	F919_3554	C2\ar919.c
+elks	ARRAY2 [G#1]	height	F919_3555	C2\ar919.c
+elks	ARRAY2 [G#1]	width	F919_3556	C2\ar919.c
+elks	ARRAY2 [G#1]	put	F919_3557	C2\ar919.c
+elks	ARRAY2 [G#1]	force	F919_3558	C2\ar919.c
+elks	ARRAY2 [G#1]	wipe_out	F919_3559	C2\ar919.c
+elks	ARRAY2 [G#1]	resize	F919_3560	C2\ar919.c
+elks	ARRAY2 [G#1]	resize_with_default	F919_3561	C2\ar919.c
+time	DATE_VALUE	day	F905_7445	C2\da905.c
+time	DATE_VALUE	month	F905_7446	C2\da905.c
+time	DATE_VALUE	year	F905_7447	C2\da905.c
+time	DATE_VALUE	compact_date	F905_7448	C2\da905.c
+time	DATE_VALUE	ordered_compact_date	F905_7449	C2\da905.c
+time	DATE_VALUE	set_date	F905_7450	C2\da905.c
+time	DATE_VALUE	set_day	F905_7451	C2\da905.c
+time	DATE_VALUE	set_month	F905_7452	C2\da905.c
+time	DATE_VALUE	set_year	F905_7453	C2\da905.c
+time	DATE_VALUE	set_internal_compact_date	F905_7454	C2\da905.c
+time	DATE_VALUE	set_internal_ordered_compact_date	F905_7455	C2\da905.c
+time	DATE_VALUE	correct_mismatch	F905_7456	C2\da905.c
+time	DATE_VALUE	day_mask	F905_7457	C2\da905.c
+time	DATE_VALUE	month_mask	F905_7458	C2\da905.c
+time	DATE_VALUE	year_mask	F905_7459	C2\da905.c
+time	DATE_VALUE	year_shift	F905_7460	C2\da905.c
+time	DATE_VALUE	month_shift	F905_7461	C2\da905.c
+time	DATE_VALUE	day_shift	F905_7462	C2\da905.c
+time	DATE_VALUE	compact_date_attribute_name	F905_7463	C2\da905.c
+time	DATE_VALUE	set_private_internal_compact_date	F905_7464	C2\da905.c
+time	DATE_TIME_CODE	make	F906_7465	C2\da906.c
+time	DATE_TIME_CODE	debug_output	F906_7466	C2\da906.c
+time	DATE_TIME_CODE	is_separator_code	F906_7467	C2\da906.c
+time	DATE_TIME_CODE	set_value	F906_7468	C2\da906.c
+time	DATE_TIME_CODE	value	F906_7469	C2\da906.c
+time	DATE_TIME_CODE	count_max	F906_7470	C2\da906.c
+time	DATE_TIME_CODE	count_min	F906_7471	C2\da906.c
+time	DATE_TIME_CODE	name	F906_7472	C2\da906.c
+time	DATE_TIME_CODE	value_max	F906_7473	C2\da906.c
+time	DATE_TIME_CODE	value_min	F906_7474	C2\da906.c
+time	DATE_TIME_CODE	type	F906_7475	C2\da906.c
+time	DATE_TIME_CODE	is_text	F906_7476	C2\da906.c
+time	DATE_TIME_CODE	is_numeric	F906_7477	C2\da906.c
+time	DATE_TIME_CODE	day_numeric_type_code	F906_7478	C2\da906.c
+time	DATE_TIME_CODE	day_numeric_on_2_digits_type_code	F906_7479	C2\da906.c
+time	DATE_TIME_CODE	day_text_type_code	F906_7480	C2\da906.c
+time	DATE_TIME_CODE	year_on_4_digits_type_code	F906_7481	C2\da906.c
+time	DATE_TIME_CODE	year_on_2_digits_type_code	F906_7482	C2\da906.c
+time	DATE_TIME_CODE	month_numeric_type_code	F906_7483	C2\da906.c
+time	DATE_TIME_CODE	month_numeric_on_2_digits_type_code	F906_7484	C2\da906.c
+time	DATE_TIME_CODE	month_text_type_code	F906_7485	C2\da906.c
+time	DATE_TIME_CODE	hour_numeric_type_code	F906_7486	C2\da906.c
+time	DATE_TIME_CODE	hour_numeric_on_2_digits_type_code	F906_7487	C2\da906.c
+time	DATE_TIME_CODE	hour_12_clock_scale_type_code	F906_7488	C2\da906.c
+time	DATE_TIME_CODE	hour_12_clock_scale_on_2_digits_type_code	F906_7489	C2\da906.c
+time	DATE_TIME_CODE	minute_numeric_type_code	F906_7490	C2\da906.c
+time	DATE_TIME_CODE	minute_numeric_on_2_digits_type_code	F906_7491	C2\da906.c
+time	DATE_TIME_CODE	second_numeric_type_code	F906_7492	C2\da906.c
+time	DATE_TIME_CODE	second_numeric_on_2_digits_type_code	F906_7493	C2\da906.c
+time	DATE_TIME_CODE	fractional_second_numeric_type_code	F906_7494	C2\da906.c
+time	DATE_TIME_CODE	colon_type_code	F906_7495	C2\da906.c
+time	DATE_TIME_CODE	slash_type_code	F906_7496	C2\da906.c
+time	DATE_TIME_CODE	minus_type_code	F906_7497	C2\da906.c
+time	DATE_TIME_CODE	comma_type_code	F906_7498	C2\da906.c
+time	DATE_TIME_CODE	space_type_code	F906_7499	C2\da906.c
+time	DATE_TIME_CODE	dot_type_code	F906_7500	C2\da906.c
+time	DATE_TIME_CODE	meridiem_type_code	F906_7501	C2\da906.c
+elks	TYPE [SLOT_STATUS_ACCESS]	name	F916_4821	C2\ty916.c
+elks	TYPE [SLOT_STATUS_ACCESS]	generic_parameter_type	F916_4822	C2\ty916.c
+elks	TYPE [SLOT_STATUS_ACCESS]	type_id	F916_4823	C2\ty916.c
+elks	TYPE [SLOT_STATUS_ACCESS]	hash_code	F916_4824	C2\ty916.c
+elks	TYPE [SLOT_STATUS_ACCESS]	generic_parameter_count	F916_4825	C2\ty916.c
+elks	TYPE [SLOT_STATUS_ACCESS]	has_default	F916_4826	C2\ty916.c
+elks	TYPE [SLOT_STATUS_ACCESS]	is_expanded	F916_4827	C2\ty916.c
+elks	TYPE [SLOT_STATUS_ACCESS]	is_attached	F916_4828	C2\ty916.c
+elks	TYPE [SLOT_STATUS_ACCESS]	is_equal	F916_4829	C2\ty916.c
+elks	TYPE [SLOT_STATUS_ACCESS]	is_strictly_conforming_to	F916_4830	C2\ty916.c
+elks	TYPE [SLOT_STATUS_ACCESS]	is_conforming_to	F916_4831	C2\ty916.c
+elks	TYPE [SLOT_STATUS_ACCESS]	adapt	F916_4832	C2\ty916.c
+elks	TYPE [SLOT_STATUS_ACCESS]	attempt	F916_4833	C2\ty916.c
+elks	TYPE [SLOT_STATUS_ACCESS]	default_detachable_value	F916_4834	C2\ty916.c
+elks	TYPE [SLOT_STATUS_ACCESS]	default	F916_4835	C2\ty916.c
+elks	TYPE [SLOT_STATUS_ACCESS]	out	F916_4836	C2\ty916.c
+elks	TYPE [SLOT_STATUS_ACCESS]	debug_output	F916_4837	C2\ty916.c
+elks	TYPE [SLOT_STATUS_ACCESS]	plus	F916_4838	C2\ty916.c
+elks	TYPE [SLOT_STATUS_ACCESS]	same_string	F916_4839	C2\ty916.c
+elks	TYPE [SLOT_STATUS_ACCESS]	is_case_insensitive_equal	F916_4840	C2\ty916.c
+elks	TYPE [SLOT_STATUS_ACCESS]	as_lower	F916_4841	C2\ty916.c
+elks	TYPE [SLOT_STATUS_ACCESS]	as_upper	F916_4842	C2\ty916.c
+elks	TYPE [SLOT_STATUS_ACCESS]	to_string_8	F916_4843	C2\ty916.c
+elks	TYPE [SLOT_STATUS_ACCESS]	to_string_32	F916_4844	C2\ty916.c
+elks	TYPE [SLOT_STATUS_ACCESS]	internal_name	F916_4845	C2\ty916.c
+elks	TYPE [SLOT_STATUS_ACCESS]	runtime_name	F916_4846	C2\ty916.c
+elks	TYPE [BOARD_TEMPLATES_ACCESS]	name	F918_4821	C2\ty918.c
+elks	TYPE [BOARD_TEMPLATES_ACCESS]	generic_parameter_type	F918_4822	C2\ty918.c
+elks	TYPE [BOARD_TEMPLATES_ACCESS]	type_id	F918_4823	C2\ty918.c
+elks	TYPE [BOARD_TEMPLATES_ACCESS]	hash_code	F918_4824	C2\ty918.c
+elks	TYPE [BOARD_TEMPLATES_ACCESS]	generic_parameter_count	F918_4825	C2\ty918.c
+elks	TYPE [BOARD_TEMPLATES_ACCESS]	has_default	F918_4826	C2\ty918.c
+elks	TYPE [BOARD_TEMPLATES_ACCESS]	is_expanded	F918_4827	C2\ty918.c
+elks	TYPE [BOARD_TEMPLATES_ACCESS]	is_attached	F918_4828	C2\ty918.c
+elks	TYPE [BOARD_TEMPLATES_ACCESS]	is_equal	F918_4829	C2\ty918.c
+elks	TYPE [BOARD_TEMPLATES_ACCESS]	is_strictly_conforming_to	F918_4830	C2\ty918.c
+elks	TYPE [BOARD_TEMPLATES_ACCESS]	is_conforming_to	F918_4831	C2\ty918.c
+elks	TYPE [BOARD_TEMPLATES_ACCESS]	adapt	F918_4832	C2\ty918.c
+elks	TYPE [BOARD_TEMPLATES_ACCESS]	attempt	F918_4833	C2\ty918.c
+elks	TYPE [BOARD_TEMPLATES_ACCESS]	default_detachable_value	F918_4834	C2\ty918.c
+elks	TYPE [BOARD_TEMPLATES_ACCESS]	default	F918_4835	C2\ty918.c
+elks	TYPE [BOARD_TEMPLATES_ACCESS]	out	F918_4836	C2\ty918.c
+elks	TYPE [BOARD_TEMPLATES_ACCESS]	debug_output	F918_4837	C2\ty918.c
+elks	TYPE [BOARD_TEMPLATES_ACCESS]	plus	F918_4838	C2\ty918.c
+elks	TYPE [BOARD_TEMPLATES_ACCESS]	same_string	F918_4839	C2\ty918.c
+elks	TYPE [BOARD_TEMPLATES_ACCESS]	is_case_insensitive_equal	F918_4840	C2\ty918.c
+elks	TYPE [BOARD_TEMPLATES_ACCESS]	as_lower	F918_4841	C2\ty918.c
+elks	TYPE [BOARD_TEMPLATES_ACCESS]	as_upper	F918_4842	C2\ty918.c
+elks	TYPE [BOARD_TEMPLATES_ACCESS]	to_string_8	F918_4843	C2\ty918.c
+elks	TYPE [BOARD_TEMPLATES_ACCESS]	to_string_32	F918_4844	C2\ty918.c
+elks	TYPE [BOARD_TEMPLATES_ACCESS]	internal_name	F918_4845	C2\ty918.c
+elks	TYPE [BOARD_TEMPLATES_ACCESS]	runtime_name	F918_4846	C2\ty918.c
+time	FIND_SEPARATOR_FACILITY	separator_characters	F907_7502	C2\fi907.c
+time	FIND_SEPARATOR_FACILITY	find_separator	F907_7503	C2\fi907.c
+time	FIND_SEPARATOR_FACILITY	extracted_substrings	F907_7504	C2\fi907.c
+time	FIND_SEPARATOR_FACILITY	has_separators	F907_7505	C2\fi907.c
+time	DATE_TIME_CODE_STRING	make	F908_7506	C2\da908.c
+time	DATE_TIME_CODE_STRING	value	F908_7507	C2\da908.c
+time	DATE_TIME_CODE_STRING	name	F908_7508	C2\da908.c
+time	DATE_TIME_CODE_STRING	base_century	F908_7509	C2\da908.c
+time	DATE_TIME_CODE_STRING	is_date	F908_7510	C2\da908.c
+time	DATE_TIME_CODE_STRING	is_time	F908_7511	C2\da908.c
+time	DATE_TIME_CODE_STRING	is_date_time	F908_7512	C2\da908.c
+time	DATE_TIME_CODE_STRING	is_value_valid	F908_7513	C2\da908.c
+time	DATE_TIME_CODE_STRING	separators_used	F908_7514	C2\da908.c
+time	DATE_TIME_CODE_STRING	set_base_century	F908_7515	C2\da908.c
+time	DATE_TIME_CODE_STRING	correspond	F908_7516	C2\da908.c
+time	DATE_TIME_CODE_STRING	create_string	F908_7517	C2\da908.c
+time	DATE_TIME_CODE_STRING	create_date_string	F908_7518	C2\da908.c
+time	DATE_TIME_CODE_STRING	create_time_string	F908_7519	C2\da908.c
+time	DATE_TIME_CODE_STRING	create_date_time	F908_7520	C2\da908.c
+time	DATE_TIME_CODE_STRING	create_date	F908_7521	C2\da908.c
+time	DATE_TIME_CODE_STRING	create_time	F908_7522	C2\da908.c
+time	DATE_TIME_CODE_STRING	precise	F908_7523	C2\da908.c
+time	DATE_TIME_CODE_STRING	precise_date	F908_7524	C2\da908.c
+time	DATE_TIME_CODE_STRING	precise_time	F908_7525	C2\da908.c
+time	DATE_TIME_CODE_STRING	days	F908_7526	C2\da908.c
+time	DATE_TIME_CODE_STRING	months	F908_7527	C2\da908.c
+time	DATE_TIME_CODE_STRING	right_day_text	F908_7528	C2\da908.c
+time	DATE_TIME_CODE_STRING	parser	F908_7529	C2\da908.c
+time	DATE_TIME_CODE_STRING	internal_parser	F908_7530	C2\da908.c
+time	TIME_VALIDITY_CHECKER	time_valid	F909_7531	C2\ti909.c
+time	TIME_VALIDITY_CHECKER	compact_time_valid	F909_7532	C2\ti909.c
+time	TIME_VALIDITY_CHECKER	is_correct_time	F909_7533	C2\ti909.c
+time	TIME	make	F910_7534	C2\ti910.c
+time	TIME	make_fine	F910_7535	C2\ti910.c
+time	TIME	make_now	F910_7536	C2\ti910.c
+time	TIME	make_now_utc	F910_7537	C2\ti910.c
+time	TIME	make_by_seconds	F910_7538	C2\ti910.c
+time	TIME	make_by_fine_seconds	F910_7539	C2\ti910.c
+time	TIME	make_from_string_default	F910_7540	C2\ti910.c
+time	TIME	make_from_string	F910_7541	C2\ti910.c
+time	TIME	make_by_compact_time	F910_7542	C2\ti910.c
+time	TIME	origin	F910_7543	C2\ti910.c
+time	TIME	is_less	F910_7544	C2\ti910.c
+time	TIME	duration	F910_7545	C2\ti910.c
+time	TIME	seconds	F910_7546	C2\ti910.c
+time	TIME	fine_seconds	F910_7547	C2\ti910.c
+time	TIME	plus	F910_7548	C2\ti910.c
+time	TIME	relative_duration	F910_7549	C2\ti910.c
+time	TIME	second_add	F910_7550	C2\ti910.c
+time	TIME	fine_second_add	F910_7551	C2\ti910.c
+time	TIME	minute_add	F910_7552	C2\ti910.c
+time	TIME	hour_add	F910_7553	C2\ti910.c
+time	TIME	second_forth	F910_7554	C2\ti910.c
+time	TIME	second_back	F910_7555	C2\ti910.c
+time	TIME	minute_forth	F910_7556	C2\ti910.c
+time	TIME	minute_back	F910_7557	C2\ti910.c
+time	TIME	hour_forth	F910_7558	C2\ti910.c
+time	TIME	hour_back	F910_7559	C2\ti910.c
+time	TIME	debug_output	F910_7560	C2\ti910.c
+time	TIME	out	F910_7561	C2\ti910.c
+time	TIME	formatted_out	F910_7562	C2\ti910.c
+time	DATE_VALIDITY_CHECKER	date_valid	F911_7563	C2\da911.c
+time	DATE_VALIDITY_CHECKER	date_valid_with_base	F911_7564	C2\da911.c
+time	DATE_VALIDITY_CHECKER	date_valid_default	F911_7565	C2\da911.c
+time	DATE_VALIDITY_CHECKER	date_valid_default_with_base	F911_7566	C2\da911.c
+time	DATE_VALIDITY_CHECKER	compact_date_valid	F911_7567	C2\da911.c
+time	DATE_VALIDITY_CHECKER	ordered_compact_date_valid	F911_7568	C2\da911.c
+time	DATE_VALIDITY_CHECKER	is_correct_date	F911_7569	C2\da911.c
+time	DATE	make	F912_7570	C2\da912.c
+time	DATE	make_month_day_year	F912_7571	C2\da912.c
+time	DATE	make_day_month_year	F912_7572	C2\da912.c
+time	DATE	make_now	F912_7573	C2\da912.c
+time	DATE	make_now_utc	F912_7574	C2\da912.c
+time	DATE	make_by_days	F912_7575	C2\da912.c
+time	DATE	make_from_string_default	F912_7576	C2\da912.c
+time	DATE	make_from_string_default_with_base	F912_7577	C2\da912.c
+time	DATE	make_from_string	F912_7578	C2\da912.c
+time	DATE	make_from_string_with_base	F912_7579	C2\da912.c
+time	DATE	make_by_compact_date	F912_7580	C2\da912.c
+time	DATE	make_by_ordered_compact_date	F912_7581	C2\da912.c
+time	DATE	origin	F912_7582	C2\da912.c
+time	DATE	is_less	F912_7583	C2\da912.c
+time	DATE	duration	F912_7584	C2\da912.c
+time	DATE	days	F912_7585	C2\da912.c
+time	DATE	leap_year	F912_7586	C2\da912.c
+time	DATE	days_at_month	F912_7587	C2\da912.c
+time	DATE	year_day	F912_7588	C2\da912.c
+time	DATE	week_of_year	F912_7589	C2\da912.c
+time	DATE	days_in_year	F912_7590	C2\da912.c
+time	DATE	day_of_the_week	F912_7591	C2\da912.c
+time	DATE	day_of_january_1st	F912_7592	C2\da912.c
+time	DATE	days_from	F912_7593	C2\da912.c
+time	DATE	to_date_time	F912_7594	C2\da912.c
+time	DATE	plus	F912_7595	C2\da912.c
+time	DATE	add	F912_7596	C2\da912.c
+time	DATE	relative_duration	F912_7597	C2\da912.c
+time	DATE	day_forth	F912_7598	C2\da912.c
+time	DATE	day_back	F912_7599	C2\da912.c
+time	DATE	day_add	F912_7600	C2\da912.c
+time	DATE	month_forth	F912_7601	C2\da912.c
+time	DATE	month_back	F912_7602	C2\da912.c
+time	DATE	month_add	F912_7603	C2\da912.c
+time	DATE	year_forth	F912_7604	C2\da912.c
+time	DATE	year_back	F912_7605	C2\da912.c
+time	DATE	year_add	F912_7606	C2\da912.c
+time	DATE	year_month_add	F912_7607	C2\da912.c
+time	DATE	debug_output	F912_7608	C2\da912.c
+time	DATE	out	F912_7609	C2\da912.c
+time	DATE	formatted_out	F912_7610	C2\da912.c
+time	DATE	days_at_months	F912_7611	C2\da912.c
+time	DATE_TIME_VALIDITY_CHECKER	date_time_valid	F913_7612	C2\da913.c
+time	DATE_TIME_VALIDITY_CHECKER	date_time_valid_with_base	F913_7613	C2\da913.c
+time	DATE_TIME_VALIDITY_CHECKER	is_correct_date_time	F913_7614	C2\da913.c
+time	DATE_TIME_PARSER	make	F914_7615	C2\da914.c
+time	DATE_TIME_PARSER	source_string	F914_7616	C2\da914.c
+time	DATE_TIME_PARSER	year	F914_7617	C2\da914.c
+time	DATE_TIME_PARSER	month	F914_7618	C2\da914.c
+time	DATE_TIME_PARSER	day	F914_7619	C2\da914.c
+time	DATE_TIME_PARSER	hour	F914_7620	C2\da914.c
+time	DATE_TIME_PARSER	minute	F914_7621	C2\da914.c
+time	DATE_TIME_PARSER	fine_second	F914_7622	C2\da914.c
+time	DATE_TIME_PARSER	day_text	F914_7623	C2\da914.c
+time	DATE_TIME_PARSER	parsed	F914_7624	C2\da914.c
+time	DATE_TIME_PARSER	is_set_up	F914_7625	C2\da914.c
+time	DATE_TIME_PARSER	is_date	F914_7626	C2\da914.c
+time	DATE_TIME_PARSER	is_time	F914_7627	C2\da914.c
+time	DATE_TIME_PARSER	is_date_time	F914_7628	C2\da914.c
+time	DATE_TIME_PARSER	is_value_valid	F914_7629	C2\da914.c
+time	DATE_TIME_PARSER	set_source_string	F914_7630	C2\da914.c
+time	DATE_TIME_PARSER	set_day_array	F914_7631	C2\da914.c
+time	DATE_TIME_PARSER	set_month_array	F914_7632	C2\da914.c
+time	DATE_TIME_PARSER	set_base_century	F914_7633	C2\da914.c
+time	DATE_TIME_PARSER	parse	F914_7634	C2\da914.c
+time	DATE_TIME_PARSER	year_val	F914_7635	C2\da914.c
+time	DATE_TIME_PARSER	month_val	F914_7636	C2\da914.c
+time	DATE_TIME_PARSER	day_val	F914_7637	C2\da914.c
+time	DATE_TIME_PARSER	hour_val	F914_7638	C2\da914.c
+time	DATE_TIME_PARSER	minute_val	F914_7639	C2\da914.c
+time	DATE_TIME_PARSER	fine_second_val	F914_7640	C2\da914.c
+time	DATE_TIME_PARSER	day_text_val	F914_7641	C2\da914.c
+time	DATE_TIME_PARSER	code	F914_7642	C2\da914.c
+time	DATE_TIME_PARSER	months	F914_7643	C2\da914.c
+time	DATE_TIME_PARSER	days	F914_7644	C2\da914.c
+time	DATE_TIME_PARSER	base_century	F914_7645	C2\da914.c
+time	DATE_TIME	make	F915_7646	C2\da915.c
+time	DATE_TIME	make_fine	F915_7647	C2\da915.c
+time	DATE_TIME	make_by_date_time	F915_7648	C2\da915.c
+time	DATE_TIME	make_by_date	F915_7649	C2\da915.c
+time	DATE_TIME	make_now	F915_7650	C2\da915.c
+time	DATE_TIME	make_now_utc	F915_7651	C2\da915.c
+time	DATE_TIME	make_from_string_default	F915_7652	C2\da915.c
+time	DATE_TIME	make_from_string_default_with_base	F915_7653	C2\da915.c
+time	DATE_TIME	make_from_string	F915_7654	C2\da915.c
+time	DATE_TIME	make_from_string_with_base	F915_7655	C2\da915.c
+time	DATE_TIME	make_from_epoch	F915_7656	C2\da915.c
+time	DATE_TIME	date	F915_7657	C2\da915.c
+time	DATE_TIME	time	F915_7658	C2\da915.c
+time	DATE_TIME	origin	F915_7659	C2\da915.c
+time	DATE_TIME	date_duration	F915_7660	C2\da915.c
+time	DATE_TIME	days	F915_7661	C2\da915.c
+time	DATE_TIME	time_duration	F915_7662	C2\da915.c
+time	DATE_TIME	seconds	F915_7663	C2\da915.c
+time	DATE_TIME	is_less	F915_7664	C2\da915.c
+time	DATE_TIME	is_equal	F915_7665	C2\da915.c
+time	DATE_TIME	duration	F915_7666	C2\da915.c
+time	DATE_TIME	set_date	F915_7667	C2\da915.c
+time	DATE_TIME	set_time	F915_7668	C2\da915.c
+time	DATE_TIME	copy	F915_7669	C2\da915.c
+time	DATE_TIME	plus	F915_7670	C2\da915.c
+time	DATE_TIME	add	F915_7671	C2\da915.c
+time	DATE_TIME	relative_duration	F915_7672	C2\da915.c
+time	DATE_TIME	definite_duration	F915_7673	C2\da915.c
+time	DATE_TIME	day_add	F915_7674	C2\da915.c
+time	DATE_TIME	hour_add	F915_7675	C2\da915.c
+time	DATE_TIME	minute_add	F915_7676	C2\da915.c
+time	DATE_TIME	second_add	F915_7677	C2\da915.c
+time	DATE_TIME	fine_second_add	F915_7678	C2\da915.c
+time	DATE_TIME	debug_output	F915_7679	C2\da915.c
+time	DATE_TIME	out	F915_7680	C2\da915.c
+time	DATE_TIME	formatted_out	F915_7681	C2\da915.c
